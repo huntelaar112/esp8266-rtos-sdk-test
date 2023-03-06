@@ -1,7 +1,7 @@
 lib/http_header.o: \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp_http_client/lib/http_header.c \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/log/include/esp_log.h \
- /home/mannk/eclipse-workspace/gpio/build/include/sdkconfig.h \
+ /home/mannk/eclipse-workspace/rtosblink/build/include/sdkconfig.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/rom/ets_sys.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/eagle_soc.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/driver/soc.h \
@@ -14,7 +14,7 @@ lib/http_header.o: \
 
 /home/mannk/esp/ESP8266_RTOS_SDK/components/log/include/esp_log.h:
 
-/home/mannk/eclipse-workspace/gpio/build/include/sdkconfig.h:
+/home/mannk/eclipse-workspace/rtosblink/build/include/sdkconfig.h:
 
 /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/rom/ets_sys.h:
 

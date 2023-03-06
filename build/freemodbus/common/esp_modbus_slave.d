@@ -1,7 +1,7 @@
 common/esp_modbus_slave.o: \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/freemodbus/common/esp_modbus_slave.c \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp_common/include/esp_err.h \
- /home/mannk/eclipse-workspace/gpio/build/include/sdkconfig.h \
+ /home/mannk/eclipse-workspace/rtosblink/build/include/sdkconfig.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/freemodbus/common/mbc_slave.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/freertos/include/freertos/FreeRTOS.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/freertos/port/esp8266/include/freertos/FreeRTOSConfig.h \
@@ -53,7 +53,7 @@ common/esp_modbus_slave.o: \
 
 /home/mannk/esp/ESP8266_RTOS_SDK/components/esp_common/include/esp_err.h:
 
-/home/mannk/eclipse-workspace/gpio/build/include/sdkconfig.h:
+/home/mannk/eclipse-workspace/rtosblink/build/include/sdkconfig.h:
 
 /home/mannk/esp/ESP8266_RTOS_SDK/components/freemodbus/common/mbc_slave.h:
 

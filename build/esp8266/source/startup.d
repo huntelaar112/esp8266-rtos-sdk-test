@@ -1,6 +1,6 @@
 source/startup.o: \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/source/startup.c \
- /home/mannk/eclipse-workspace/gpio/build/include/sdkconfig.h \
+ /home/mannk/eclipse-workspace/rtosblink/build/include/sdkconfig.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/nvs_flash/include/nvs_flash.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/nvs_flash/include/nvs.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp_attr.h \
@@ -86,7 +86,7 @@ source/startup.o: \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/freertos/include/freertos/task.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/newlib/platform_include/esp_newlib.h
 
-/home/mannk/eclipse-workspace/gpio/build/include/sdkconfig.h:
+/home/mannk/eclipse-workspace/rtosblink/build/include/sdkconfig.h:
 
 /home/mannk/esp/ESP8266_RTOS_SDK/components/nvs_flash/include/nvs_flash.h:
 

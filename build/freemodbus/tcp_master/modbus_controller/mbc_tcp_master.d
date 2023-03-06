@@ -2,7 +2,7 @@ tcp_master/modbus_controller/mbc_tcp_master.o: \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/freemodbus/tcp_master/modbus_controller/mbc_tcp_master.c \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/newlib/platform_include/sys/time.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/log/include/esp_log.h \
- /home/mannk/eclipse-workspace/gpio/build/include/sdkconfig.h \
+ /home/mannk/eclipse-workspace/rtosblink/build/include/sdkconfig.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/rom/ets_sys.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/eagle_soc.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/driver/soc.h \
@@ -79,7 +79,7 @@ tcp_master/modbus_controller/mbc_tcp_master.o: \
 
 /home/mannk/esp/ESP8266_RTOS_SDK/components/log/include/esp_log.h:
 
-/home/mannk/eclipse-workspace/gpio/build/include/sdkconfig.h:
+/home/mannk/eclipse-workspace/rtosblink/build/include/sdkconfig.h:
 
 /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/rom/ets_sys.h:
 

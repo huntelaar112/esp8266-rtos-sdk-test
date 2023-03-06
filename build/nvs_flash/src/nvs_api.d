@@ -1,6 +1,6 @@
 src/nvs_api.o: \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/nvs_flash/src/nvs_api.cpp \
- /home/mannk/eclipse-workspace/gpio/build/include/sdkconfig.h \
+ /home/mannk/eclipse-workspace/rtosblink/build/include/sdkconfig.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/nvs_flash/src/nvs.hpp \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/nvs_flash/include/nvs.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp_attr.h \
@@ -56,7 +56,7 @@ src/nvs_api.o: \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/log/include/esp_log.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/log/include/esp_log_internal.h
 
-/home/mannk/eclipse-workspace/gpio/build/include/sdkconfig.h:
+/home/mannk/eclipse-workspace/rtosblink/build/include/sdkconfig.h:
 
 /home/mannk/esp/ESP8266_RTOS_SDK/components/nvs_flash/src/nvs.hpp:
 

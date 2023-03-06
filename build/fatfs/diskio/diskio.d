@@ -6,7 +6,7 @@ diskio/diskio.o: \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/fatfs/src/diskio.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp_common/include/esp_err.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/fatfs/src/ffconf.h \
- /home/mannk/eclipse-workspace/gpio/build/include/sdkconfig.h \
+ /home/mannk/eclipse-workspace/rtosblink/build/include/sdkconfig.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/freertos/include/freertos/FreeRTOS.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/freertos/port/esp8266/include/freertos/FreeRTOSConfig.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/rom/ets_sys.h \
@@ -51,7 +51,7 @@ diskio/diskio.o: \
 
 /home/mannk/esp/ESP8266_RTOS_SDK/components/fatfs/src/ffconf.h:
 
-/home/mannk/eclipse-workspace/gpio/build/include/sdkconfig.h:
+/home/mannk/eclipse-workspace/rtosblink/build/include/sdkconfig.h:
 
 /home/mannk/esp/ESP8266_RTOS_SDK/components/freertos/include/freertos/FreeRTOS.h:
 
