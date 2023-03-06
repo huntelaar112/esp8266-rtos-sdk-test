@@ -8,7 +8,7 @@ port/esp8266/port.o: \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/xtensa/tie/xt_timer.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/freertos/include/freertos/FreeRTOS.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/freertos/port/esp8266/include/freertos/FreeRTOSConfig.h \
- /home/mannk/eclipse-workspace/gpio/build/include/sdkconfig.h \
+ /home/mannk/eclipse-workspace/rtosblink/build/include/sdkconfig.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/rom/ets_sys.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/eagle_soc.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/driver/soc.h \
@@ -40,6 +40,7 @@ port/esp8266/port.o: \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp_task_wdt.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp_sleep.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/driver/gpio.h \
+ /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/driver/gpio.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/pin_mux_register.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/eagle_soc.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/gpio_register.h \
@@ -61,7 +62,7 @@ port/esp8266/port.o: \
 
 /home/mannk/esp/ESP8266_RTOS_SDK/components/freertos/port/esp8266/include/freertos/FreeRTOSConfig.h:
 
-/home/mannk/eclipse-workspace/gpio/build/include/sdkconfig.h:
+/home/mannk/eclipse-workspace/rtosblink/build/include/sdkconfig.h:
 
 /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/rom/ets_sys.h:
 
@@ -122,6 +123,8 @@ port/esp8266/port.o: \
 /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp_task_wdt.h:
 
 /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp_sleep.h:
+
+/home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/driver/gpio.h:
 
 /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/driver/gpio.h:
 

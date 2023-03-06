@@ -2,7 +2,7 @@ freertos/timers.o: \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/freertos/freertos/timers.c \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/freertos/include/freertos/FreeRTOS.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/freertos/port/esp8266/include/freertos/FreeRTOSConfig.h \
- /home/mannk/eclipse-workspace/gpio/build/include/sdkconfig.h \
+ /home/mannk/eclipse-workspace/rtosblink/build/include/sdkconfig.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/rom/ets_sys.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/eagle_soc.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/driver/soc.h \
@@ -39,7 +39,7 @@ freertos/timers.o: \
 
 /home/mannk/esp/ESP8266_RTOS_SDK/components/freertos/port/esp8266/include/freertos/FreeRTOSConfig.h:
 
-/home/mannk/eclipse-workspace/gpio/build/include/sdkconfig.h:
+/home/mannk/eclipse-workspace/rtosblink/build/include/sdkconfig.h:
 
 /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/rom/ets_sys.h:
 

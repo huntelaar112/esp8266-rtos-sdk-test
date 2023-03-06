@@ -2,7 +2,7 @@ port/portevent_m.o: \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/freemodbus/port/portevent_m.c \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/freemodbus/modbus/include/mb_m.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/freemodbus/modbus/include/mbconfig.h \
- /home/mannk/eclipse-workspace/gpio/build/include/sdkconfig.h \
+ /home/mannk/eclipse-workspace/rtosblink/build/include/sdkconfig.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/freemodbus/port/port.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/freertos/include/freertos/FreeRTOS.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/freertos/port/esp8266/include/freertos/FreeRTOSConfig.h \
@@ -52,7 +52,7 @@ port/portevent_m.o: \
 
 /home/mannk/esp/ESP8266_RTOS_SDK/components/freemodbus/modbus/include/mbconfig.h:
 
-/home/mannk/eclipse-workspace/gpio/build/include/sdkconfig.h:
+/home/mannk/eclipse-workspace/rtosblink/build/include/sdkconfig.h:
 
 /home/mannk/esp/ESP8266_RTOS_SDK/components/freemodbus/port/port.h:
 

@@ -2,7 +2,7 @@ src/crypto/crypto_mbedtls.o: \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/wpa_supplicant/src/crypto/crypto_mbedtls.c \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp_system.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp_common/include/esp_err.h \
- /home/mannk/eclipse-workspace/gpio/build/include/sdkconfig.h \
+ /home/mannk/eclipse-workspace/rtosblink/build/include/sdkconfig.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp_idf_version.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/wpa_supplicant/src/utils/includes.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/wpa_supplicant/port/include/supplicant_opt.h \
@@ -47,7 +47,7 @@ src/crypto/crypto_mbedtls.o: \
 
 /home/mannk/esp/ESP8266_RTOS_SDK/components/esp_common/include/esp_err.h:
 
-/home/mannk/eclipse-workspace/gpio/build/include/sdkconfig.h:
+/home/mannk/eclipse-workspace/rtosblink/build/include/sdkconfig.h:
 
 /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp_idf_version.h:
 

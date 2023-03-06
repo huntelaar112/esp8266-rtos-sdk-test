@@ -8,7 +8,7 @@ lwip/src/netif/lowpan6_ble.o: \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/newlib/platform_include/sys/time.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/vfs/include/sys/ioctl.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp_common/include/esp_task.h \
- /home/mannk/eclipse-workspace/gpio/build/include/sdkconfig.h \
+ /home/mannk/eclipse-workspace/rtosblink/build/include/sdkconfig.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/freertos/port/esp8266/include/freertos/FreeRTOSConfig.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/rom/ets_sys.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/eagle_soc.h \
@@ -70,7 +70,7 @@ lwip/src/netif/lowpan6_ble.o: \
 
 /home/mannk/esp/ESP8266_RTOS_SDK/components/esp_common/include/esp_task.h:
 
-/home/mannk/eclipse-workspace/gpio/build/include/sdkconfig.h:
+/home/mannk/eclipse-workspace/rtosblink/build/include/sdkconfig.h:
 
 /home/mannk/esp/ESP8266_RTOS_SDK/components/freertos/port/esp8266/include/freertos/FreeRTOSConfig.h:
 

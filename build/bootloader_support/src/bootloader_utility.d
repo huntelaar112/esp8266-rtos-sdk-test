@@ -1,6 +1,6 @@
 src/bootloader_utility.o: \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/bootloader_support/src/bootloader_utility.c \
- /home/mannk/eclipse-workspace/gpio/build/include/sdkconfig.h \
+ /home/mannk/eclipse-workspace/rtosblink/build/include/sdkconfig.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/bootloader_support/include_priv/bootloader_config.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/bootloader_support/include/esp_flash_data_types.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/bootloader_support/include_priv/bootloader_utility.h \
@@ -25,7 +25,7 @@ src/bootloader_utility.o: \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp_system.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp_idf_version.h
 
-/home/mannk/eclipse-workspace/gpio/build/include/sdkconfig.h:
+/home/mannk/eclipse-workspace/rtosblink/build/include/sdkconfig.h:
 
 /home/mannk/esp/ESP8266_RTOS_SDK/components/bootloader_support/include_priv/bootloader_config.h:
 

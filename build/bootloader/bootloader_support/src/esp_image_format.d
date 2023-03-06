@@ -1,6 +1,6 @@
 src/esp_image_format.o: \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/bootloader_support/src/esp_image_format.c \
- /home/mannk/eclipse-workspace/gpio/build/bootloader/../include/sdkconfig.h \
+ /home/mannk/eclipse-workspace/rtosblink/build/bootloader/../include/sdkconfig.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/bootloader_support/include/esp_image_format.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp_common/include/esp_err.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/bootloader_support/include/esp_flash_partitions.h \
@@ -17,7 +17,7 @@ src/esp_image_format.o: \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/bootloader_support/include_priv/bootloader_random.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/bootloader_support/include_priv/bootloader_sha.h
 
-/home/mannk/eclipse-workspace/gpio/build/bootloader/../include/sdkconfig.h:
+/home/mannk/eclipse-workspace/rtosblink/build/bootloader/../include/sdkconfig.h:
 
 /home/mannk/esp/ESP8266_RTOS_SDK/components/bootloader_support/include/esp_image_format.h:
 

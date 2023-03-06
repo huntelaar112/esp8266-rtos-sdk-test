@@ -2,7 +2,7 @@ src/eap_peer/eap_peap.o: \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/wpa_supplicant/src/eap_peer/eap_peap.c \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/wpa_supplicant/src/utils/includes.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/wpa_supplicant/port/include/supplicant_opt.h \
- /home/mannk/eclipse-workspace/gpio/build/include/sdkconfig.h \
+ /home/mannk/eclipse-workspace/rtosblink/build/include/sdkconfig.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/rom/ets_sys.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/eagle_soc.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/driver/soc.h \
@@ -42,7 +42,7 @@ src/eap_peer/eap_peap.o: \
 
 /home/mannk/esp/ESP8266_RTOS_SDK/components/wpa_supplicant/port/include/supplicant_opt.h:
 
-/home/mannk/eclipse-workspace/gpio/build/include/sdkconfig.h:
+/home/mannk/eclipse-workspace/rtosblink/build/include/sdkconfig.h:
 
 /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/rom/ets_sys.h:
 

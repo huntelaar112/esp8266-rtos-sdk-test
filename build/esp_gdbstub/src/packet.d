@@ -13,7 +13,7 @@ src/packet.o: \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/xtensa/config/core-isa.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/xtensa/config/core-matmap.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp_gdbstub/esp8266/gdbstub_target_config.h \
- /home/mannk/eclipse-workspace/gpio/build/include/sdkconfig.h
+ /home/mannk/eclipse-workspace/rtosblink/build/include/sdkconfig.h
 
 /home/mannk/esp/ESP8266_RTOS_SDK/components/esp_gdbstub/private_include/esp_gdbstub_common.h:
 
@@ -41,5 +41,5 @@ src/packet.o: \
 
 /home/mannk/esp/ESP8266_RTOS_SDK/components/esp_gdbstub/esp8266/gdbstub_target_config.h:
 
-/home/mannk/eclipse-workspace/gpio/build/include/sdkconfig.h:
+/home/mannk/eclipse-workspace/rtosblink/build/include/sdkconfig.h:
 /home/mannk/esp/ESP8266_RTOS_SDK/components/esp_gdbstub/src/packet.c:

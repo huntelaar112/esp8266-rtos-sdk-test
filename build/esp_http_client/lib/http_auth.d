@@ -1,7 +1,7 @@
 lib/http_auth.o: \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp_http_client/lib/http_auth.c \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/tcpip_adapter/include/esp_netif.h \
- /home/mannk/eclipse-workspace/gpio/build/include/sdkconfig.h \
+ /home/mannk/eclipse-workspace/rtosblink/build/include/sdkconfig.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp_wifi_types.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp_common/include/esp_err.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp_interface.h \
@@ -90,7 +90,7 @@ lib/http_auth.o: \
 
 /home/mannk/esp/ESP8266_RTOS_SDK/components/tcpip_adapter/include/esp_netif.h:
 
-/home/mannk/eclipse-workspace/gpio/build/include/sdkconfig.h:
+/home/mannk/eclipse-workspace/rtosblink/build/include/sdkconfig.h:
 
 /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp_wifi_types.h:
 

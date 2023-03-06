@@ -2,7 +2,7 @@ esp_http_client.o: \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp_http_client/esp_http_client.c \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp_system.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp_common/include/esp_err.h \
- /home/mannk/eclipse-workspace/gpio/build/include/sdkconfig.h \
+ /home/mannk/eclipse-workspace/rtosblink/build/include/sdkconfig.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp_idf_version.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/log/include/esp_log.h \
  /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/rom/ets_sys.h \
@@ -123,7 +123,7 @@ esp_http_client.o: \
 
 /home/mannk/esp/ESP8266_RTOS_SDK/components/esp_common/include/esp_err.h:
 
-/home/mannk/eclipse-workspace/gpio/build/include/sdkconfig.h:
+/home/mannk/eclipse-workspace/rtosblink/build/include/sdkconfig.h:
 
 /home/mannk/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp_idf_version.h:
 
